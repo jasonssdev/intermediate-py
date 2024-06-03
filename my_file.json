@@ -1,0 +1,10 @@
+{
+    "name": "Jason",
+    "age": 34,
+    "Language": [
+        "Python",
+        "JS",
+        "Ruby"
+    ],
+    "area": "data science"
+}
